@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Richard Grün Institut',
-  description: 'Just playing around',
+  description: 'Richard Grün Institut',
   dest: 'dist',
 
   locales: {
