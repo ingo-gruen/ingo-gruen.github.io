@@ -31,7 +31,14 @@ module.exports = {
           { text: 'Zuhause', link: '/' },
           { text: 'Über uns', link: '/about.html' },
           { text: 'Fassade', link: '/facades/' }, // 外墙
-          { text: 'Gutachten', link: '/report/' }, // 报告
+          // { text: 'Gutachten', link: '/report/' }, // 报告
+          {
+            text: 'Gutachten',
+            items: [
+              { text: 'gutachten1', link: '/report/1' },
+              { text: 'gutachten2', link: '/report/2' }
+            ]
+          },
           { text: 'Kontakt', link: '/contact' } // 联系我们
         ]
       },
@@ -42,7 +49,14 @@ module.exports = {
           { text: '主页', link: '/zh/' },
           { text: '关于我们', link: '/zh/about.html' },
           { text: '外墙', link: '/zh/facades/' },
-          { text: '报告', link: '/zh/report/' },
+          // { text: '报告', link: '/zh/report/' },
+          {
+            text: '报告',
+            items: [
+              { text: '报告1', link: '/zh/report/1' },
+              { text: '报告2', link: '/zh/report/2' }
+            ]
+          },
           { text: '联系我们', link: '/zh/contact' }
         ]
       },
@@ -51,9 +65,16 @@ module.exports = {
         label: 'English',
         nav: [
           { text: 'Home', link: '/en/' },
-          { text: 'about', link: '/en/about.html' },
+          { text: 'About', link: '/en/about.html' },
           { text: 'Facades', link: '/en/facades/' },
-          { text: 'report', link: '/en/report/' },
+          // { text: 'report', link: '/en/report/' },
+          {
+            text: 'Report',
+            items: [
+              { text: 'report1', link: '/en/report/1' },
+              { text: 'report2', link: '/en/report/2' }
+            ]
+          },
           { text: ' Contact Us', link: '/en/contact' }
         ]
       }
