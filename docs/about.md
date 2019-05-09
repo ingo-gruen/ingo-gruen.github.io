@@ -1,3 +1,6 @@
+---
+sidebar: auto
+---
 ## Über uns
 ![about1](/about1.jpg)
 ![about1](/about2.jpg)

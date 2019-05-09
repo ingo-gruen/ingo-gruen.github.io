@@ -23,6 +23,9 @@ module.exports = {
     }
   },
   themeConfig: {
+    // sidebar: [ ],
+    sidebarDepth:2,
+
     locales: {
       '/': {
         selectText: 'Deutsch',
@@ -41,7 +44,8 @@ module.exports = {
           },
           { text: 'Fassade', link: '/facades/' }, // 外墙
           { text: 'Kontakt', link: '/contact' } // 联系我们
-        ]
+        ],
+        // sidebar: ['/' ],
       },
       '/zh/': {
         selectText: '选择语言',
