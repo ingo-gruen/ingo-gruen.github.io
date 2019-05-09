@@ -24,7 +24,7 @@ module.exports = {
   },
   themeConfig: {
     // sidebar: [ ],
-    sidebarDepth:2,
+    sidebarDepth: 2,
 
     locales: {
       '/': {
@@ -33,7 +33,7 @@ module.exports = {
         nav: [
           { text: 'Zuhause', link: '/' },
           { text: 'Über uns', link: '/about.html' },
-          
+
           // { text: 'Gutachten', link: '/report/' }, // 报告
           {
             text: 'Gutachten',
@@ -45,7 +45,15 @@ module.exports = {
           { text: 'Fassade', link: '/facades/' }, // 外墙
           { text: 'Kontakt', link: '/contact' } // 联系我们
         ],
-        // sidebar: ['/' ],
+        sidebar: {
+          '/report/': [
+            {
+              title: 'report',
+              collapsable: false,
+              children: ['1', '2']
+            }
+          ]
+        }
       },
       '/zh/': {
         selectText: '选择语言',
@@ -53,7 +61,7 @@ module.exports = {
         nav: [
           { text: '主页', link: '/zh/' },
           { text: '关于我们', link: '/zh/about.html' },
-          
+
           // { text: '报告', link: '/zh/report/' },
           {
             text: '报告',
@@ -72,7 +80,7 @@ module.exports = {
         nav: [
           { text: 'Home', link: '/en/' },
           { text: 'About', link: '/en/about.html' },
-          
+
           // { text: 'report', link: '/en/report/' },
           {
             text: 'Report',
