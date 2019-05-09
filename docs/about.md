@@ -1,18 +1,18 @@
 ---
 sidebar: auto
 ---
-## Über uns
+# Über uns
 ![about1](/about1.jpg)
 ![about1](/about2.jpg)
 
-### 1. Historie des Institut
+## 1. Historie des Institut
 Prof. Dr.(phil) Richard Grün war Chemiker und Wissenschaftler.  Seine Fachbildung erhielt er bei seinem späteren Schwiegervater Dr. Hermann Passow, ebenfalls Chemiker. Der führte das Forschungs-institut xxxx in Blankenese bei Hamburg. Darin entwickelte Passow maßgebend den Hochofen-Zement, früher genannt Eisen-Portlandzement. Dieses Institut übernahm Richard Grün und verlegte es nach Düsseldorf, wo es als Forschungsinstitutes der Zementindustrie weiter geführt, jetzt in der Nähe der Stahlproduktion, die den Grundstoff für Hochofen-Zement liefert. Dessen Gründungsdirektor war Richard Grün. In seinem privat geführten Institut „Baustoff Forschung Buchenhof“ in Hösel bei Düsseldorf beschäftigte er sich vorwiegend mit Beton, worüber er umfangreich veröffentlichte. Insbesondere schrieb er die Bücher xxx die heute wieder aufgelegt wurden, weil sie von der Aktualität nichts verloren haben..   
 
 Dr. Wolfgang Grün war Chemiker und übernahm das Institut seines Vaters Richard Grün.  Er nahm die Themen Bauphysik und dann auch die Ökologie als Arbeitsgebiete auf, worüber er umfangreich und seiner Zeit weit vorausschauend veröffentlichte. Dazu verfasste er die Bücher Beton I und Beton II über Spezialbetone. Neben Baustoff-Prüfung für die Industrie und bauphysikalischen Beratungen spezialisierte sich Wolfgang Grün auf Bauschäden, weil diese sich nicht ohne die Prüfung am Baustoff und an den Bauteilen nicht beurteilen lassen.  
 
 Prof. Dr.-Ing. Ingo Grün ist Bauingenieur und Architekt. Er übernahm das Institut seines Vaters Wolfgang Grün. Er benannte das Institut um in Richard Grün Institut (RGI).    
 
-### 2. Leistungsspektrum
+## 2. Leistungsspektrum
 
 ![about3](/about3.jpg)
 
