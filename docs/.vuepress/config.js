@@ -30,7 +30,7 @@ module.exports = {
         nav: [
           { text: 'Zuhause', link: '/' },
           { text: 'Über uns', link: '/about.html' },
-          { text: 'Fassade', link: '/facades/' }, // 外墙
+          
           // { text: 'Gutachten', link: '/report/' }, // 报告
           {
             text: 'Gutachten',
@@ -39,6 +39,7 @@ module.exports = {
               { text: 'gutachten2', link: '/report/2' }
             ]
           },
+          { text: 'Fassade', link: '/facades/' }, // 外墙
           { text: 'Kontakt', link: '/contact' } // 联系我们
         ]
       },
@@ -48,7 +49,7 @@ module.exports = {
         nav: [
           { text: '主页', link: '/zh/' },
           { text: '关于我们', link: '/zh/about.html' },
-          { text: '外墙', link: '/zh/facades/' },
+          
           // { text: '报告', link: '/zh/report/' },
           {
             text: '报告',
@@ -57,6 +58,7 @@ module.exports = {
               { text: '报告2', link: '/zh/report/2' }
             ]
           },
+          { text: '外墙', link: '/zh/facades/' },
           { text: '联系我们', link: '/zh/contact' }
         ]
       },
@@ -66,7 +68,7 @@ module.exports = {
         nav: [
           { text: 'Home', link: '/en/' },
           { text: 'About', link: '/en/about.html' },
-          { text: 'Facades', link: '/en/facades/' },
+          
           // { text: 'report', link: '/en/report/' },
           {
             text: 'Report',
@@ -75,6 +77,7 @@ module.exports = {
               { text: 'report2', link: '/en/report/2' }
             ]
           },
+          { text: 'Facades', link: '/en/facades/' },
           { text: ' Contact Us', link: '/en/contact' }
         ]
       }
