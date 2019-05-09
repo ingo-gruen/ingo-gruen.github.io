@@ -1,3 +1,3 @@
-## Das Einfach ist das Best!
+## Je einfacher desto besser
 
 ![home](/home1.jpg) 
