@@ -76,7 +76,7 @@ module.exports = {
           { text: '联系我们', link: '/zh/contact' }
         ],
         sidebar: {
-          '/report/': [
+          '/zh/report/': [
             {
               title: 'report',
               collapsable: false,
@@ -106,7 +106,7 @@ module.exports = {
           { text: ' Contact Us', link: '/en/contact' }
         ],
         sidebar: {
-          '/report/': [
+          '/en/report/': [
             {
               title: 'report',
               collapsable: false,
