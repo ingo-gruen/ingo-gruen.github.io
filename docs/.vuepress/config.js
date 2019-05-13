@@ -33,8 +33,6 @@ module.exports = {
         nav: [
           { text: 'Zuhause', link: '/' },
           { text: 'Über uns', link: '/about.html' },
-
-          // { text: 'Gutachten', link: '/report/' }, // 报告
           {
             text: 'Gutachten',
             items: [
@@ -44,15 +42,15 @@ module.exports = {
               { text: 'Gerichtgutachten', link: '/report/4' }
             ]
           },
-          { text: 'Fassade', link: '/facades/' }, // 外墙
-          { text: 'Kontakt', link: '/contact' } // 联系我们
+          { text: 'Fassade', link: '/facades/' },
+          { text: 'Kontakt', link: '/contact' }
         ],
         sidebar: {
           '/report/': [
             {
               title: 'report',
               collapsable: false,
-              children: ['1', '2','3','4']
+              children: ['1', '2', '3', '4']
             }
           ]
         }
@@ -69,12 +67,23 @@ module.exports = {
             text: '报告',
             items: [
               { text: '报告1', link: '/zh/report/1' },
-              { text: '报告2', link: '/zh/report/2' }
+              { text: '报告2', link: '/zh/report/2' },
+              { text: '报告3', link: '/zh/report/3' },
+              { text: '报告4', link: '/zh/report/4' }
             ]
           },
           { text: '外墙', link: '/zh/facades/' },
           { text: '联系我们', link: '/zh/contact' }
-        ]
+        ],
+        sidebar: {
+          '/report/': [
+            {
+              title: 'report',
+              collapsable: false,
+              children: ['1', '2', '3', '4']
+            }
+          ]
+        }
       },
       '/en/': {
         selectText: 'Languages',
@@ -87,13 +96,24 @@ module.exports = {
           {
             text: 'Report',
             items: [
-              { text: 'report1', link: '/en/report/1' },
-              { text: 'report2', link: '/en/report/2' }
+              { text: 'Prüfung', link: '/en/report/1' },
+              { text: 'Beweissicherung', link: '/en/report/2' },
+              { text: 'Beratung', link: '/en/report/3' },
+              { text: 'Gerichtgutachten', link: '/en/report/4' }
             ]
           },
           { text: 'Facades', link: '/en/facades/' },
           { text: ' Contact Us', link: '/en/contact' }
-        ]
+        ],
+        sidebar: {
+          '/report/': [
+            {
+              title: 'report',
+              collapsable: false,
+              children: ['1', '2', '3', '4']
+            }
+          ]
+        }
       }
     }
   }
