@@ -38,8 +38,10 @@ module.exports = {
           {
             text: 'Gutachten',
             items: [
-              { text: 'gutachten1', link: '/report/1' },
-              { text: 'gutachten2', link: '/report/2' }
+              { text: 'Prüfung', link: '/report/1' },
+              { text: 'Beweissicherung', link: '/report/2' },
+              { text: 'Beratung', link: '/report/3' },
+              { text: 'Gerichtgutachten', link: '/report/4' }
             ]
           },
           { text: 'Fassade', link: '/facades/' }, // 外墙
@@ -50,7 +52,7 @@ module.exports = {
             {
               title: 'report',
               collapsable: false,
-              children: ['1', '2']
+              children: ['1', '2','3','4']
             }
           ]
         }

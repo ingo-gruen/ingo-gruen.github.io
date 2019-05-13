@@ -1,8 +1,34 @@
-## Fassaden 
+---
+sidebar: auto
+---
+# Fassaden 
 
 ![facades1](/facades1.jpg)
 
+## 1.	bestehende Gebäude
+- Fassaden prüfen, sanieren, erneuern  
+- Fassaden für modulares industrielles Bauen  
+- Fassadenbekleidung  
+- Warmfassaden  
+- Doppelfassaden  
+- Gerüstfassaden  
+- Heizfassaden  
+- Energiefassaden, Kollektor-Fassade, PV-Fassade  
+- Glasdächer, Gebäudehülle  
+- Sonderfassaden  
 
-Aus vielen Schäden an Fassaden entstand das Erfordernis, eine Fassade zu entwickeln, welche die oft vorhandenen Mängel nicht aufweisen. Hinzu kommt das Problem, die Produktion von Fassaden aus dem Handwerk in die Industrialisierung zu führen. Dies erfolgt nämlich auch in Deutschland nur selten. Denn der Bau von Fassaden hat sich aus dem Fensterbau entwickelt und der ist stark handwerklich ausgerichtet.  
+## 2.	RGI-Modul-Fassade
+- Prinzip der RGI-Modul-Fassade  
+- Entwicklung und Prüfung der RGI-Modul-Fassade  
+- Planung der RGI-Modul-Fassade  
+- Produktion der RGI-Modul-Fassade  
+- Montage der RGI-Modul-Fassade  
+- Gestaltungen der RGI-Modul-Fassade  
+- haustechnische Komponenten der RGI-Modul-Fassade  
+- Wirtschaftlichkeit der RGI-Modul-Fassade  
 
-Die RGI-Fassade wurde also entwickelt, um eine konsequente industrialisierte Produktion zu erreichen. Das ist die Besonderheit dieser Fassade, auch in Deutschland.
+## 3.	Gestaltung
+
+
+
+## 4.	Virtuelles Bauen
