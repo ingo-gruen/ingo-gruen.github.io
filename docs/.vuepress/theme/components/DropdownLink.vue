@@ -170,8 +170,10 @@ export default {
       right 0
       background-color alpha($navbarColor, 0.8) // #fff
       padding 0.6rem 0
-      border 1px solid #ddd
-      border-bottom-color #ccc
+      // border 1px solid #ddd
+      // border-bottom-color #ccc
+      border 1px solid $borderColor
+      border-bottom-color $borderColor
       text-align left
       border-radius 0.25rem
       white-space nowrap
