@@ -32,7 +32,7 @@ module.exports = {
         selectText: 'Deutsch',
         label: 'Deutsch',
         nav: [
-          { text: 'Zuhause', link: '/' },
+          { text: 'Home', link: '/' },
           { text: 'Über uns', link: '/about.html' },
           {
             text: 'Gutachten',
