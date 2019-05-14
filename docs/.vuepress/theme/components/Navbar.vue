@@ -93,7 +93,7 @@ $navbar-horizontal-padding = 1.5rem
   padding $navbar-vertical-padding $navbar-horizontal-padding
   line-height $navbarHeight - 1.4rem
   // background-color alpha($navbarColor, 0.8)
-  // background-color $navbarColor
+  background-color #595959
   a, span, img
     display inline-block
   .logo

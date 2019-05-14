@@ -32,7 +32,7 @@ module.exports = {
         selectText: 'Deutsch',
         label: 'Deutsch',
         nav: [
-          { text: 'Home', link: '/' },
+          // { text: 'Home', link: '/' },
           { text: 'Über uns', link: '/about.html' },
           {
             text: 'Gutachten',
@@ -60,7 +60,7 @@ module.exports = {
         selectText: '选择语言',
         label: '简体中文',
         nav: [
-          { text: '主页', link: '/zh/' },
+          // { text: '主页', link: '/zh/' },
           { text: '关于我们', link: '/zh/about.html' },
 
           // { text: '报告', link: '/zh/report/' },
@@ -90,7 +90,7 @@ module.exports = {
         selectText: 'Languages',
         label: 'English',
         nav: [
-          { text: 'Home', link: '/en/' },
+          // { text: 'Home', link: '/en/' },
           { text: 'About', link: '/en/about.html' },
 
           // { text: 'report', link: '/en/report/' },
