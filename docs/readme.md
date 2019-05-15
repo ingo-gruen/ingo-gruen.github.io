@@ -1,3 +1,3 @@
-# 大道至简，衍化至繁。
+# Je einfacher desto besser
 
 ![home](/home1.jpg) 
