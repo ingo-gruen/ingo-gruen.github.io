@@ -47,7 +47,7 @@ module.exports = {
           { text: 'Fassade', link: '/facades/' },
           { text: 'Kontakt', link: '/contact' }
         ],
-        /* sidebar: {
+        sidebar: {
           '/report/': [
             {
               title: 'Gutachten',
@@ -55,7 +55,7 @@ module.exports = {
               children: ['1', '2', '3', '4']
             }
           ]
-        } */
+        }
       },
       '/zh/': {
         selectText: '选择语言',
