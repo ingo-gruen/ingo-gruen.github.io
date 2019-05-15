@@ -123,7 +123,7 @@ module.exports = {
     // ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['link', { rel: 'icon', href: '/logo.jpg' }],
     // iphone 用
-    ['link', { rel: 'apple-touch-icon', href: '/logo.png' }],
+    ['link', { rel: 'apple-touch-icon', href: '/logo.jpg' }],
     //增加manifest.json
     // ['link', { rel: 'manifest', href: '/manifest.json' }]
   ],

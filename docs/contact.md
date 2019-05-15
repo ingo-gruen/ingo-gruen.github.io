@@ -1,6 +1,6 @@
 ## Kontakt
 
-### Richard Grün Institute
+### Richard Grün Institut
 
 Preußenstr.31-35  
 40883 Ratingen  
