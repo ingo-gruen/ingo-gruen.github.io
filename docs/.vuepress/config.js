@@ -74,7 +74,7 @@ module.exports = {
               { text: '报告4', link: '/zh/report/4' }
             ]
           }, */
-          { text: '外墙', link: '/zh/facades/' },
+          { text: '幕墙', link: '/zh/facades/' },
           { text: '联系我们', link: '/zh/contact' }
         ],
         sidebar: {
