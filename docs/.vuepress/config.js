@@ -49,7 +49,7 @@ module.exports = {
         sidebar: {
           '/report/': [
             {
-              title: 'report',
+              title: 'Gutachten',
               collapsable: false,
               children: ['1', '2', '3', '4']
             }
@@ -79,7 +79,7 @@ module.exports = {
         sidebar: {
           '/zh/report/': [
             {
-              title: 'report',
+              title: '报告',
               collapsable: false,
               children: ['1', '2', '3', '4']
             }

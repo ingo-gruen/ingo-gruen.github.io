@@ -5,7 +5,7 @@ sidebar: auto
 
 ![facades1](/facades1.jpg)
 
-## 1.	bestehende Gebäude
+## bestehende Gebäude
 - Fassaden prüfen, sanieren, erneuern  
 - Fassaden für modulares industrielles Bauen  
 - Fassadenbekleidung  
@@ -17,7 +17,7 @@ sidebar: auto
 - Glasdächer, Gebäudehülle  
 - Sonderfassaden  
 
-## 2.	RGI-Modul-Fassade
+## RGI-Modul-Fassade
 - Prinzip der RGI-Modul-Fassade  
 - Entwicklung und Prüfung der RGI-Modul-Fassade  
 - Planung der RGI-Modul-Fassade  
@@ -27,8 +27,8 @@ sidebar: auto
 - haustechnische Komponenten der RGI-Modul-Fassade  
 - Wirtschaftlichkeit der RGI-Modul-Fassade  
 
-## 3.	Gestaltung
+## Gestaltung
 
 
 
-## 4.	Virtuelles Bauen
+## Virtuelles Bauen

@@ -1,6 +1,6 @@
 ## Kontakt
 
-### Richard Green Institute
+### Richard Grün Institute
 
 Preußenstr.31-35  
 40883 Ratingen  
@@ -8,7 +8,7 @@ Deutschland
 
 ### Ansprechpartner:
 
-Prof.Dr.Ingo Green   
+Prof.Dr.Ingo Grün   
 Herr Akim Warncke  
 Frau Chunyan Grün  
 Frau Yali Gu  
