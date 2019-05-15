@@ -118,5 +118,13 @@ module.exports = {
         }
       }
     }
-  }
+  },
+  head: [
+    // ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/logo.jpg' }],
+    // iphone 用
+    ['link', { rel: 'apple-touch-icon', href: '/logo.png' }],
+    //增加manifest.json
+    // ['link', { rel: 'manifest', href: '/manifest.json' }]
+  ],
 }
