@@ -23,7 +23,7 @@ module.exports = {
     }
   },
   themeConfig: {
-    logo:'/logo.jpg',
+    logo: '/logo.jpg',
     // sidebar: [ ],
     sidebarDepth: 2,
 
@@ -34,7 +34,8 @@ module.exports = {
         nav: [
           // { text: 'Home', link: '/' },
           { text: 'Über uns', link: '/about.html' },
-          {
+          { text: 'Gutachten', link: '/report/' },
+          /* {
             text: 'Gutachten',
             items: [
               { text: 'Prüfung', link: '/report/1' },
@@ -42,11 +43,11 @@ module.exports = {
               { text: 'Beratung', link: '/report/3' },
               { text: 'Gerichtgutachten', link: '/report/4' }
             ]
-          },
+          }, */
           { text: 'Fassade', link: '/facades/' },
           { text: 'Kontakt', link: '/contact' }
         ],
-        sidebar: {
+        /* sidebar: {
           '/report/': [
             {
               title: 'Gutachten',
@@ -54,7 +55,7 @@ module.exports = {
               children: ['1', '2', '3', '4']
             }
           ]
-        }
+        } */
       },
       '/zh/': {
         selectText: '选择语言',
@@ -63,8 +64,8 @@ module.exports = {
           // { text: '主页', link: '/zh/' },
           { text: '关于我们', link: '/zh/about.html' },
 
-          // { text: '报告', link: '/zh/report/' },
-          {
+          { text: '报告', link: '/zh/report/' },
+          /* {
             text: '报告',
             items: [
               { text: '报告1', link: '/zh/report/1' },
@@ -72,7 +73,7 @@ module.exports = {
               { text: '报告3', link: '/zh/report/3' },
               { text: '报告4', link: '/zh/report/4' }
             ]
-          },
+          }, */
           { text: '外墙', link: '/zh/facades/' },
           { text: '联系我们', link: '/zh/contact' }
         ],
@@ -93,8 +94,8 @@ module.exports = {
           // { text: 'Home', link: '/en/' },
           { text: 'About', link: '/en/about.html' },
 
-          // { text: 'report', link: '/en/report/' },
-          {
+          { text: 'report', link: '/en/report/' },
+          /* {
             text: 'Report',
             items: [
               { text: 'Prüfung', link: '/en/report/1' },
@@ -102,7 +103,7 @@ module.exports = {
               { text: 'Beratung', link: '/en/report/3' },
               { text: 'Gerichtgutachten', link: '/en/report/4' }
             ]
-          },
+          }, */
           { text: 'Facades', link: '/en/facades/' },
           { text: ' Contact Us', link: '/en/contact' }
         ],
