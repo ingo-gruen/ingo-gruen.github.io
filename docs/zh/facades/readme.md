@@ -1,7 +1,7 @@
 ---
 sidebar: auto
 ---
-# 幕墙
+# 建筑幕墙
 ![facades1](/facades1.jpg)  
 ## 现有幕墙
 - 幕墙检查，翻新，更换

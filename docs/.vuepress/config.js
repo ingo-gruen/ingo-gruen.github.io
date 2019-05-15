@@ -64,7 +64,7 @@ module.exports = {
           // { text: '主页', link: '/zh/' },
           { text: '关于我们', link: '/zh/about.html' },
 
-          { text: '报告', link: '/zh/report/' },
+          { text: '建筑鉴定', link: '/zh/report/' },
           /* {
             text: '报告',
             items: [
@@ -74,13 +74,13 @@ module.exports = {
               { text: '报告4', link: '/zh/report/4' }
             ]
           }, */
-          { text: '幕墙', link: '/zh/facades/' },
+          { text: '建筑幕墙', link: '/zh/facades/' },
           { text: '联系我们', link: '/zh/contact' }
         ],
         sidebar: {
           '/zh/report/': [
             {
-              title: '报告',
+              title: '建筑鉴定',
               collapsable: false,
               children: ['1', '2', '3', '4']
             }
