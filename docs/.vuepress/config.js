@@ -23,7 +23,8 @@ module.exports = {
     }
   },
   themeConfig: {
-    logo: '/logo.jpg',
+    // logo: '/logo.jpg',
+    logo: '/logo200.png',
     // sidebar: [ ],
     sidebarDepth: 2,
 

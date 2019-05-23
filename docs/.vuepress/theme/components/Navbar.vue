@@ -99,8 +99,8 @@ $navbar-horizontal-padding = 1.5rem
   a, span, img
     display inline-block
   .logo
-    // padding 0 0
-    height $navbarHeight -0.1rem
+    // padding 1 0
+    height $navbarHeight - 0.15rem
     // - 1.4rem
     min-width $navbarHeight
     // - 1.4rem
