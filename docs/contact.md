@@ -11,7 +11,6 @@ Deutschland
 Prof.Dr.Ingo Grün   
 Herr Akim Warncke  
 Frau Chunyan Grün  
-Frau Yali Gu  
   
   
 Telephone: 02102 96890  

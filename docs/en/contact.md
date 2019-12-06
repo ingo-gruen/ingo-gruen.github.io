@@ -11,8 +11,9 @@ Germany
 Prof. Dr. Ingo Green  
 Mr. Akim Warncke  
 Mrs. Chunyan Green  
-Ms. GU Yali  
 
 Telephone: 02102 96890  
 Fax: 02102/968916  
-Email: info@richard-gruen-institut.de  
+Email: 
+- info@richard-gruen-institut.de  
+- ingo.gruen@t-online.de
